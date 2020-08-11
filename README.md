@@ -1,4 +1,6 @@
 ### Hi there 👋
+### This is LiuChanglin!🙈～
+
 
 <!--
 **MagicStarLIN/MagicStarLIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Education
-
+## 🎓Education
 **东北农业大学/2020届/计算机科学与技术**
+**NEAU/2020/Computer Science**
 
-## Direction
+## 🧭Direction
 > **后端开发**
 
-## technology
+## 👀technology
 
 - 熟悉常见数据结构与算法
 
